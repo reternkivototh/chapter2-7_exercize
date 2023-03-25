@@ -2,7 +2,6 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  color: #6c6b6b;
 }
 
 .main-visual {
@@ -14,8 +13,7 @@
 }
 
 .main-visual-text {
-  font-size: 30px;
-  font-weight: bold;
+  font-size: 20px;
   padding: 20px 0 0 20px;
 }
 
